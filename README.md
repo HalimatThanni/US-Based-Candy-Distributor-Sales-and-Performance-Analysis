@@ -1,5 +1,6 @@
 # Candywood Sales, Profitability & Target Performance Analysis
 ### Transforming Raw Sales Data into Business-Critical Insights (Using Excel Only)
+![images](https://github.com/user-attachments/assets/e8338740-55c1-41d3-8976-1a85039d4687)
 
 
 ## Project Overview
