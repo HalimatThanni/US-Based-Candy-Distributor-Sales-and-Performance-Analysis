@@ -1,7 +1,7 @@
 # Candywood Sales, Profitability & Target Performance Analysis
 ### Transforming Raw Sales Data into Business-Critical Insights (Using Excel Only)
-![images](https://github.com/user-attachments/assets/e8338740-55c1-41d3-8976-1a85039d4687)
 
+<img width="2000" height="1600" alt="Untitled design (2)" src="https://github.com/user-attachments/assets/85079ac9-9400-4ff8-abae-f492ed5ae51f" />
 
 ## Project Overview
 Data is only valuable when it tells a story, and more importantly, when that story drives decisions.
